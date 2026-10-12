@@ -26,17 +26,6 @@ Apasionado por la infraestructura de red, la administración de servidores Linux
 * **Hardware:** ESP32, Arduino, ESP-NOW Protocol, Sensors (DHT11, LM35), Motor Drivers (L293D), I2C / SPI Displays.
 * **Platforms:** MicroPython, Arduino IDE, Tinkercad, ThingSpeak Cloud.
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wils0on&show_icons=true&theme=tokyonight" alt="Wilson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wils0on&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 ¡Contactemos!
 
 * **Email:** [wilson.rene.vedia.navarro.bo@gmail.com](mailto:wilson.rene.vedia.navarro.bo@gmail.com)
